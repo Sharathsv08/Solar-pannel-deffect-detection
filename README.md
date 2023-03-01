@@ -10,10 +10,11 @@ d. Normal Panel
 
 The semantic segmentation task has been attempted using two models  
 i)FCN  
-ii)  
+ii)SegFormer  
 
 The repository consists of the data set which has images along with the corresponding annotations  
 the repository mainly consists of 2 files  
 i)FCN - semantic segmenation using FCN  
+ii)SegFormer  
 
 
