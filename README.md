@@ -7,4 +7,7 @@ a. ByPass Diode (BP)
 b. Dark Hot Spot (DHS)
 c. Light Hot Spot (LHS)
 d. Normal Panel
-Each of these categories is defined in further details hereunder
+The semantic segmentation task has been attempted using two models
+i)FCN
+ii)
+
