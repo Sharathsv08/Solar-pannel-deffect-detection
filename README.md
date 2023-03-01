@@ -9,7 +9,7 @@ c. Light Hot Spot (LHS)
 d. Normal Panel  
 
 The annotation has been done using Dataloop which is used for FCN  
-Annoations done using Roboflow is used for SegFormer the below link directs to the roboflow annotations 
+Annoations done using Roboflow is used for SegFormer the below link directs to the roboflow annotations  
 https://app.roboflow.com/sharath-nwlng/solar-cell-defect-detection-using-semantic-segmentation/6
 
 The semantic segmentation task has been attempted using two models  
